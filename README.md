@@ -1,6 +1,6 @@
-# General / META
+# META (General)
 
->_[Training](https://github.com/simplonco/training) / General_
+>_[Training](https://github.com/simplonco/training) / META (General)_
 
 ### Discourses
 
