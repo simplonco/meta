@@ -97,3 +97,5 @@ https://dribbble.com/
 
 1Go = 1024Mo = 1024*1024Ko
 ```
+
+https://www.destroyallsoftware.com/talks/wat
