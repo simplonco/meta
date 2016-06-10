@@ -102,3 +102,5 @@ https://www.destroyallsoftware.com/talks/wat
 
 * https://docs.google.com/document/d/1ufT8wR29Xj8YvVlcbztOiIJr8aM8EMfE7qXvHiu8GoQ
 * https://docs.google.com/presentation/d/1uuOuRAfY3Ks2Mva-OcHOeghIn_-_haHE3WYl2NvvPv8
+
+https://docs.google.com/spreadsheets/d/1WcM6PKND2AUDfEYa4PKp9TQZxGOgFhpAK83VaMqRNGM/edit#gid=0
