@@ -2,7 +2,7 @@
 
 >_[Training](https://github.com/simplonco/training) / META (General ressources)_
 
-ressourceve.herokuapp.com
+http://ressourceve.herokuapp.com
 
 https://github.com/simplonco/meta-languages/
 
@@ -44,6 +44,11 @@ https://devart.withgoogle.com/fr
 
 Dribbble
 https://dribbble.com/
+
+### L'histoire de l'informatique
+
+* [Les dates clés](http://www.linternaute.com/histoire/categorie/98/a/1/1/histoire_de_l_informatique.shtml)
+* ...
 
 ### Les outils qui peuvent être utiles
 
