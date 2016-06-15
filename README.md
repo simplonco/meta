@@ -45,6 +45,17 @@ https://devart.withgoogle.com/fr
 Dribbble
 https://dribbble.com/
 
+### Les outils qui peuvent être utiles
+
+* Les [gists](http://gist.github.com) by GitHub
+* [Terminator](https://doc.ubuntu-fr.org/terminator) est un terminal qui permet de facilement scinder horizontalement/ verticalement une instance : 
+`sudo apt-get install terminator` ; voir aussi `screen` et `tmux` !
+
+### Editeurs : 
+* [Atom](http://atom.io)
+* [Sublime text 2/3](http://sublimetext.com)
+* Vim / Emacs
+
 ### Discourses
 
 * [Datathon Simplon.co x SNCF Réseau](http://discourse.simplon.co/t/datathon-simplon-co-x-sncf-reseau/124)
