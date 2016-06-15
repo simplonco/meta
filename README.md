@@ -120,3 +120,9 @@ https://www.destroyallsoftware.com/talks/wat
 
 * https://docs.google.com/document/d/1ufT8wR29Xj8YvVlcbztOiIJr8aM8EMfE7qXvHiu8GoQ
 * https://docs.google.com/presentation/d/1uuOuRAfY3Ks2Mva-OcHOeghIn_-_haHE3WYl2NvvPv8
+
+https://fonts.google.com
+
+http://commonmark.org/help/
+
+https://openclassrooms.com/old-courses-pdf
