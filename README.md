@@ -80,3 +80,6 @@ https://fonts.google.com
 http://commonmark.org/help/
 
 https://openclassrooms.com/old-courses-pdf
+
+
+_To be continued.._
