@@ -70,52 +70,6 @@ https://dribbble.com/
 * [Bayard : API et Hackathon](http://discourse.simplon.co/t/bayard-api-et-hackathon/107)
 * [Culture générale](http://discourse.simplon.co/t/culture-generale/108)
 
-
-### How to handle 1024 numbers with your 10 fingers :+1: !
-
-```
-// Decimal / Binary / Hexa
-
-     8421
- 0 =    0 = 0
- 1 =    1 = 1
- 2 =   10 = 2
- 3 =   11 = 3
- 4 =  100 = 4
- 5 =  101 = 5
- 6 =  110 = 6
- 7 =  111 = 7
- 8 = 1000 = 8
- 9 = 1001 = 9
-10 = 1010 = A
-11 = 1011 = B
-12 = 1100 = C
-13 = 1101 = D
-14 = 1110 = E
-15 = 1111 = F
-        
-16 = 10000 = 10
-17 = 10001 = 11
-..
-
-// Ex: RGB
-
-#F0F
-11 00 11
-4 *4 *4 => 64 different colors..
-
-#FF00AF
-1111 1111 0000 0000 1010 1111
-16 * 16 * 16 * 16 * 16 * 16 => 16 millions colors!
-
-// Bases of 10 & 2
-
-1, 10, 100, 1000, 10000, 100000, 1000000..
-1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, ..
-
-1Go = 1024Mo = 1024*1024Ko
-```
-
 https://www.destroyallsoftware.com/talks/wat
 
 * https://docs.google.com/document/d/1ufT8wR29Xj8YvVlcbztOiIJr8aM8EMfE7qXvHiu8GoQ
