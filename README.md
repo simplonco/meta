@@ -81,12 +81,9 @@ Try the website Silent Teacher. This will teach you the basics of programmation,
 * https://github.com/simplonco/POE1
 * https://github.com/simplonco/sql-first-steps
 * https://github.com/simplonco/simplon-wiki
-* https://github.com/simplonco/php-simplonreunion
 * https://github.com/simplonco/simplonreunion-tronccommun
 * https://github.com/simplonco/LeMondeBlog
 * https://github.com/simplonco/LeMondeLandingPage
-* https://github.com/simplonco/php-training-ajax
-* https://github.com/simplonco/htmlcss-challenge-integration
 * https://github.com/simplonco/RATP-Hackathon
 * https://github.com/simplonco/dev-web
 * https://github.com/simplonco/challenge-js-jeu-des-paires
