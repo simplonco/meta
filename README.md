@@ -30,8 +30,8 @@ https://github.com/simplonco/kanban
 
 https://github.com/simplonco/big-brother-is-watching-you
 
-* https://docs.google.com/document/d/1ufT8wR29Xj8YvVlcbztOiIJr8aM8EMfE7qXvHiu8GoQ
-* https://docs.google.com/presentation/d/1uuOuRAfY3Ks2Mva-OcHOeghIn_-_haHE3WYl2NvvPv8
+* Introduction à la programmation impérative : https://docs.google.com/document/d/1ufT8wR29Xj8YvVlcbztOiIJr8aM8EMfE7qXvHiu8GoQ
+* UML (Unified Modeling Language) : https://docs.google.com/presentation/d/1uuOuRAfY3Ks2Mva-OcHOeghIn_-_haHE3WYl2NvvPv8
 
 ### Discourses
 
