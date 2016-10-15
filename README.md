@@ -81,10 +81,6 @@ Try the website Silent Teacher. This will teach you the basics of programmation,
 * https://github.com/simplonco/robespierre
 * https://github.com/simplonco/simplonline
 * https://github.com/simplonco/PlantEmoji
-* https://github.com/simplonco/ATS-SPC-A
-* https://github.com/simplonco/ATS-SPC-B
-* https://github.com/simplonco/ATS-SPC-C
-* https://github.com/simplonco/ATS-SPC-D
 * https://github.com/simplonco/POE1
 * https://github.com/simplonco/sql-first-steps
 * https://github.com/simplonco/simplon-wiki
