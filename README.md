@@ -74,10 +74,7 @@ Try the website Silent Teacher. This will teach you the basics of programmation,
 
 ## TODO
 
-* https://github.com/simplonco/angular-training
 * https://github.com/simplonco/pokemon-uml
-* https://github.com/simplonco/ssh
-* https://github.com/simplonco/ftp
 * https://github.com/simplonco/robespierre
 * https://github.com/simplonco/simplonline
 * https://github.com/simplonco/PlantEmoji
