@@ -2,9 +2,9 @@
 
 >_[Training](https://gitlab.com/simplon-co/training) / META (General ressources)_
 
-http://ressourceve.herokuapp.com
+Prairie.ve: http://ressourceve.herokuapp.com
 
-https://gitlab.com/simplon-co/meta-languages/
+https://github.com/simplonco/meta-languages/
 
 ## Ressources
 
