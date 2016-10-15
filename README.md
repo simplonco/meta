@@ -44,11 +44,8 @@ https://github.com/simplonco/big-brother-is-watching-you
 
 ### Simplonline
 
-Avant de commencer
-http://simplonline.co/dashboard/partages-formateurs/236-avant-de-commencer-236
-
-Généralités
-http://simplonline.co/dashboard/partages-formateurs/240-semaine-1-generalites-240
+* Avant de commencer : http://simplonline.co/dashboard/partages-formateurs/236-avant-de-commencer-236
+* Généralités : http://simplonline.co/dashboard/partages-formateurs/240-semaine-1-generalites-240
 
 ### Learn X in Y minutes
 
@@ -64,32 +61,17 @@ I suggest to subscribe the Github weekly newsletter https://github.com/explore !
 ### Misc
 
 Try the website Silent Teacher. This will teach you the basics of programmation, thanks to mathematical problems. You will step by step replace numbers by variables, then by functions. Work well!
-http://silentteacher.toxicode.fr/
 
-Code Player
-http://thecodeplayer.com/
-
-CodePen
-http://codepen.io/
-
-Emoji Cheat Sheet
-http://www.emoji-cheat-sheet.com/
-
-The Useless Web
-http://www.theuselessweb.com/
-
-Google Dev Art
-https://devart.withgoogle.com/fr
-
-Dribbble
-https://dribbble.com/
-
-https://www.destroyallsoftware.com/talks/wat
-
-https://fonts.google.com
-
-http://commonmark.org/help/
-
-https://openclassrooms.com/old-courses-pdf
+* Silent Teacher: http://silentteacher.toxicode.fr/
+* Code Player: http://thecodeplayer.com/
+* CodePen: http://codepen.io/
+* Emoji Cheat Sheet: http://www.emoji-cheat-sheet.com/
+* The Useless Web: http://www.theuselessweb.com/
+* Google Dev Art: https://devart.withgoogle.com/fr
+* Dribbble: https://dribbble.com/
+* Google Fonts: https://fonts.google.com
+* https://www.destroyallsoftware.com/talks/wat
+* http://commonmark.org/help/
+* https://openclassrooms.com/old-courses-pdf
 
 _To be continued.._
