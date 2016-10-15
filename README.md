@@ -1,6 +1,6 @@
 # META (General ressources)
 
->_[Training](https://gitlab.com/simplon-co/training) / META (General ressources)_
+>_[Training](https://github.com/simplonco/training) / META (General ressources)_
 
 ## L'histoire de l'informatique
 
