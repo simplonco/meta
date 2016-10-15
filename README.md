@@ -50,7 +50,7 @@ http://simplonline.co/dashboard/partages-formateurs/236-avant-de-commencer-236
 Généralités
 http://simplonline.co/dashboard/partages-formateurs/240-semaine-1-generalites-240
 
-## Learn X in Y minutes
+### Learn X in Y minutes
 
 * https://learnxinyminutes.com/docs/css/
 * https://learnxinyminutes.com/docs/php/
