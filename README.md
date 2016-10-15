@@ -8,21 +8,26 @@ Workshop "Programming Languages -> The Big View": https://github.com/simplonco/m
 
 ## Ressources
 
-Avant de commencer (Simplonline)
+### Simplonline
+
+Avant de commencer
 http://simplonline.co/dashboard/partages-formateurs/236-avant-de-commencer-236
 
-Généralités (Simplonline)
+Généralités
 http://simplonline.co/dashboard/partages-formateurs/240-semaine-1-generalites-240
 
-Learn X in Y minutes
-https://learnxinyminutes.com/docs/css/
-https://learnxinyminutes.com/docs/php/
-https://learnxinyminutes.com/docs/javascript/
-https://learnxinyminutes.com/docs/bash/
+## " Learn X in Y minutes
 
-### NEWSLETTERS
+* https://learnxinyminutes.com/docs/css/
+* https://learnxinyminutes.com/docs/php/
+* https://learnxinyminutes.com/docs/javascript/
+* https://learnxinyminutes.com/docs/bash/
+
+### Newsletters
 
 I suggest to subscribe the Github weekly newsletter https://github.com/explore ! You can also subscribe the StackOverflow newsletter : http://stackexchange.com/newsletters and take a look at https://medium.com/browse/b99480981476 and https://news.ycombinator.com/ :wink: !
+
+### Misc
 
 Try the website Silent Teacher. This will teach you the basics of programmation, thanks to mathematical problems. You will step by step replace numbers by variables, then by functions. Work well!
 http://silentteacher.toxicode.fr/
@@ -69,6 +74,8 @@ https://dribbble.com/
 * [Programme pédagogique](http://discourse.simplon.co/t/programme-pedagogique/52)
 * [Bayard : API et Hackathon](http://discourse.simplon.co/t/bayard-api-et-hackathon/107)
 * [Culture générale](http://discourse.simplon.co/t/culture-generale/108)
+
+### Misc
 
 https://www.destroyallsoftware.com/talks/wat
 
