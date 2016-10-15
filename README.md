@@ -22,9 +22,9 @@
 
 Prairie.ve: http://ressourceve.herokuapp.com
 
-* https://github.com/simplonco/big-brother-is-watching-you
-* https://github.com/simplonco/kanban
-* https://github.com/simplonco/this-is-not-the-end
+* [Portfolio](https://github.com/simplonco/portfolio/) _Create a beautiful Portfolio using GitHub pages_
+* [How to track trackers](https://github.com/simplonco/big-brother-is-watching-you) _How to track trackers_
+* [THIS IS NOT THE END](https://github.com/simplonco/this-is-not-the-end) _MAY THE FORCE BE WITH YOU_
 
 Workshop "Programming Languages -> The Big View": https://github.com/simplonco/meta-languages/
 
