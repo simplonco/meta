@@ -22,13 +22,11 @@
 
 Prairie.ve: http://ressourceve.herokuapp.com
 
+* https://github.com/simplonco/big-brother-is-watching-you
+* https://github.com/simplonco/kanban
+* https://github.com/simplonco/this-is-not-the-end
+
 Workshop "Programming Languages -> The Big View": https://github.com/simplonco/meta-languages/
-
-https://github.com/simplonco/this-is-not-the-end
-
-https://github.com/simplonco/kanban
-
-https://github.com/simplonco/big-brother-is-watching-you
 
 * Introduction à la programmation impérative : https://docs.google.com/document/d/1ufT8wR29Xj8YvVlcbztOiIJr8aM8EMfE7qXvHiu8GoQ
 * UML (Unified Modeling Language) : https://docs.google.com/presentation/d/1uuOuRAfY3Ks2Mva-OcHOeghIn_-_haHE3WYl2NvvPv8
