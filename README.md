@@ -4,7 +4,7 @@
 
 Prairie.ve: http://ressourceve.herokuapp.com
 
-https://github.com/simplonco/meta-languages/
+Workshop "Programming Languages -> The Big View": https://github.com/simplonco/meta-languages/
 
 ## Ressources
 
