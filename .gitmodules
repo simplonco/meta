@@ -1,0 +1,9 @@
+[submodule "exercises/portfolio"]
+	path = exercises/portfolio
+	url = https://github.com/simplonco/portfolio/
+[submodule "exercises/big-brother-is-watching-you"]
+	path = exercises/big-brother-is-watching-you
+	url = https://github.com/simplonco/big-brother-is-watching-you
+[submodule "exercises/this-is-not-the-end"]
+	path = exercises/this-is-not-the-end
+	url = https://github.com/simplonco/this-is-not-the-end
