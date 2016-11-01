@@ -7,3 +7,6 @@
 [submodule "exercises/this-is-not-the-end"]
 	path = exercises/this-is-not-the-end
 	url = https://github.com/simplonco/this-is-not-the-end
+[submodule "workshops/meta-languages"]
+	path = workshops/meta-languages
+	url = https://github.com/simplonco/meta-languages/
