@@ -47,10 +47,11 @@ Workshop "Programming Languages -> The Big View": https://github.com/simplonco/m
 
 ### Learn X in Y minutes
 
+* https://learnxinyminutes.com/docs/bash/
 * https://learnxinyminutes.com/docs/css/
 * https://learnxinyminutes.com/docs/php/
 * https://learnxinyminutes.com/docs/javascript/
-* https://learnxinyminutes.com/docs/bash/
+* https://learnxinyminutes.com/docs/jquery
 
 ### Newsletters
 
