@@ -125,4 +125,29 @@ Try the website Silent Teacher. This will teach you the basics of programmation,
 * https://github.com/simplonco/twitter-streaming-api-text2speech
 * https://github.com/simplonco/alatax
 
+* https://github.com/simplonco/evaluations
+* https://github.com/simplonco/word-game
+* https://github.com/simplonco/ux-elements
+* https://github.com/simplonco/embed-video
+* https://github.com/simplonco/evaluation-november
+* https://github.com/simplonco/fake-js
+* https://github.com/simplonco/flexminator
+* https://github.com/simplonco/flexminator-aligator
+* https://github.com/simplonco/flexminator-cookie
+* https://github.com/simplonco/flexminator-flexbest
+* https://github.com/simplonco/flexminator-hackengers
+* https://github.com/simplonco/flexminator-les-winners
+* https://github.com/simplonco/flexminator-mlns
+* https://github.com/simplonco/human
+* https://github.com/simplonco/keyboard-event
+* https://github.com/simplonco/machine-a-cafe
+* https://github.com/simplonco/merge-training
+* https://github.com/simplonco/music-box
+* https://github.com/simplonco/randomize
+* https://github.com/simplonco/shuffle
+* https://github.com/simplonco/soutien
+* https://github.com/simplonco/thuglife
+* https://github.com/simplonco/toggle
+
+
 _To be continued.._
