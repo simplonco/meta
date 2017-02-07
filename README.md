@@ -73,4 +73,11 @@ Try the website Silent Teacher. This will teach you the basics of programmation,
 * http://commonmark.org/help/
 * https://openclassrooms.com/old-courses-pdf
 
+## How to Contribute
+
+Please read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md) first!
+
+Do you want to add a resource? correct a mistake? or do you need a new exercise or project to cover a topic?
+Do not hesitate to write an [issue](https://github.com/simplonco/meta-training/issues)!
+
 _To be continued.._
